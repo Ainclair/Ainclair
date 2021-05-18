@@ -1,0 +1,5 @@
+- Hi here. I'm a CS undergraduate college student
+- Most of the projects here are just for fun or a learning experience
+- The last project was a text to speech discord bot with my own voice
+- My current goal of this summer is to build a bot connected is a database
+  - I will have friends working together on this.
